@@ -1,6 +1,8 @@
-# Fizik Gündemi – Lise Bilim Dergisi (Sayı 11 · Kasım 2026)
+# Fizik Gündemi – Okul Bilim Dergisi (Sayı 11 · Kasım 2026)
 
-Lise düzeyindeki öğrenciler için hazırlanmış, güncel fizik haberlerinden oluşan 28 sayfalık bir dergi.
+**Cedide Abalıoğlu Fen ve Sosyal Bilimler Proje İmam Hatip Lisesi** için hazırlanmış, güncel fizik haberlerinden oluşan 28 sayfalık bir bilim dergisi.
+
+Okulun adı kapakta, arka kapakta, her sayfanın üst bilgisinde, editörden yazısında ve 27. sayfadaki künyede yer alır.
 
 | Dosya | Açıklama |
 | --- | --- |
@@ -28,7 +30,7 @@ Lise düzeyindeki öğrenciler için hazırlanmış, güncel fizik haberlerinden
 | 24 | Takvim | 2026'nın Fizik Takvimi ve İleriye Bakış |
 | 25 | Etkinlik | Bilim Sözlüğü |
 | 26 | Etkinlik | Hesap Köşesi ve Mini Test (cevaplarıyla) |
-| 27 | Kaynaklar | Haber ve görsel kaynakları |
+| 27 | Kaynaklar | Haber ve görsel kaynakları, künye |
 | 28 | Arka kapak | Başak Gökada Kümesi ve Haldane alıntısı |
 
 ## Notlar
