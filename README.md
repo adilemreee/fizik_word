@@ -1,4 +1,4 @@
-# Fizik Gündemi – Okul Bilim Dergisi (Sayı 11 · Kasım 2026)
+# Fizik Gündemi – Okul Bilim Dergisi (Sayı 1 · Kasım 2026)
 
 **Cedide Abalıoğlu Fen ve Sosyal Bilimler Proje İmam Hatip Lisesi** için hazırlanmış, güncel fizik haberlerinden oluşan 28 sayfalık bir bilim dergisi.
 
@@ -6,8 +6,8 @@ Okulun adı kapakta, arka kapakta, her sayfanın üst bilgisinde, editörden yaz
 
 | Dosya | Açıklama |
 | --- | --- |
-| `Fizik_Gundemi_Sayi11_Kasim2026.docx` | Düzenlenebilir Word dosyası (asıl dergi) |
-| `Fizik_Gundemi_Sayi11_Kasim2026_onizleme.pdf` | Hızlı bakış için PDF önizlemesi |
+| `Fizik_Gundemi_Sayi1_Kasim2026.docx` | Düzenlenebilir Word dosyası (asıl dergi) |
+| `Fizik_Gundemi_Sayi1_Kasim2026_onizleme.pdf` | Hızlı bakış için PDF önizlemesi |
 
 ## İçindekiler
 
